@@ -1,0 +1,5 @@
+Flask
+flask-cors
+torch
+torch-geometric
+numpy
